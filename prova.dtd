@@ -1,0 +1,4 @@
+<!ELEMENT TEI (header, facsimile?, text+)> <!--a loro volta sono elementi-->
+<!ELEMENT header(#PCDATA)> <!--#PCDATA solo testo-->
+<!ELEMENT facsimile(#PCDATA)>
+<!ELEMENT text(#PCDATA)>
