@@ -1,0 +1,6 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<TEI>
+	<p>questo file xml non è annidato correttamente</TEI>
+</p>
+
+<!--il tag <TEI> deve essere chiuso dopo la chiusura del tag <p>-->
