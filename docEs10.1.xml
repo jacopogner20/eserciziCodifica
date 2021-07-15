@@ -1,0 +1,37 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Edizione elettronica dell'articolo "Azzurro estate" presente sul numero 24 della rivista Sportweek</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Jacopo Gneri</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date></date>
+                <avaiability status="restricted"></avaiability> 
+            </publicationStmt>
+            <sourceDesc>
+                <title>Azzurro estate</title>
+                <author>Pier Bergonzi</author>
+                <publisher>Sportweek</publisher>
+                <date>15-06-2019</date>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                Il chilometro zero è il punto di partenza delle tappe dei Grandi Giri. È da lì che si parte per il viaggio nella meraviglia del Giro d'Italia, della Tour de France, della Vuelta... È da lì che riparte il nostro viaggo nella bellezza dello sport. Ripartiamo dall'azzurro luminoso di Nicolò Zaniolo e Moise Kean, belle facce e gambe piene di talentodel nostro calcio. Due figli della nuova Italia che dovrebbe andare oltre gli steccati di vecchi pregiudizi. Luoghi comuni di un muro che le atlete della nostra Nazionale femminile stanno abbattendo a suon di gol e parole di saggezza. Aggiungete i risultati degli Under 20 al Mondiale di Polonia e la freschezza della nuova Italia "Fantasia" di Mancini e scoprirete quanta voglia di Italia c'è in tutti noi. Quanto è azzurra la strada che ci porta fin sulla soglia dell'estate. Quanto è azzurra la strada del nostro futuro. In questa euforia "Nazionale" domani, a Bologna contro la Spagna, scenderè in campo l'Italia di Luigi di Biagio, che può contare su fuoriclasse già affermati come Chiesa, Zaniolo, Kean, Pellegrini e Barella e promuove un predestinato come Pinamonti. L'Europeo Under 21 sarebbe il nostro torneo preferito visto che lo abbiamo vinto 5 volte (nessuno come noi), ma non sappiamo più come farlo da 15 anni, dalla giovane Nazionale di Gentile che lanciò rampolli di nobiltà calcistica come Amelia, Barzagli, De Rossi, Gilardino e Zaccardo, che due anni dopo videro il cielo azzurro sopra Berlino.
+            </p>
+            <p>
+                In questo numero troverete anche un Cristiano Ronaldo che fa il portoghese e finisce per trascinare la sua nazionale in cima alla prima Nations League. Per lui che aveva già vinto (quasi) tutto si tratta del primo titulo in casa: uno degli obiettivi a cui teneva di più. Stefano Boldrini, che era lì, ci racconta un mostro chiamato cr7 visto dai compagni del Portogallo e da chi lo ha accompagnato negli anni dello Sporting.
+            </p>
+            <p>
+                Come capirete, per noi quel "Chilometro Zero" sta anche per servizi, rubriche, idee autoprodotte che arrivano direttamente a voi, senza mediazione.
+            </p>
+        </body>
+    </text>
+</TEI>
