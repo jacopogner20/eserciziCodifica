@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Pesci grossi, pesci piccoli: versione elettronica</title>
+				<author>Italo Calvino</author>
+				<respStmt>
+					<resp>Codifica di</resp>
+					<name>Jacopo Gneri</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Università di Pisa</publisher>
+				<date>Aprile 2021</date>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<title>Pesci grossi, pesci piccoli</title>
+					<author>Italo Calvino</author>
+					<publisher>Mondadori</publisher>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>
+				Il  padre  di  Zeffirino  non  si  metteva  mai  in  costume  da  bagno.  Stava  in  calzoni rimboccati  e  maglietta,  con  in  capo  il  berretto  di  tela  bianca,  e  non  si  staccava  mai dalla  scogliera.  La  sua  passione  erano  le  patelle,  i  piatti  molluschi  che  stanno  appiccicati  allo  scoglio,  e  fanno  col  loro  durissimo  guscio  quasi  tutt’uno  con  la  pietra. Per  staccarle  il  padre  di  Zeffirino  adoperava  un  coltello,  e  ogni  domenica  col  suo sguardo occhialuto passava in rassegna una per una le rocce della punta. Continuava finché  la  sua  piccola  cesta  non  era  piena  di  patelle;  qualcuna  la  mangiava  appena colta, succhiandone la polpa umida ed agra<ref target="#nota1">1</ref> come da un cucchiaio; le altre le metteva in  una  cesta.  Ogni  tanto  alzava  gli  occhi,  li  girava  un  po’  spersi<ref target="#nota2">2</ref>  sul  mare  liscio  e chiamava: – <said>Zeffirino! Dove sei?</said>
+			</p>
+			<p>
+				Zeffirino passava in acqua pomeriggi interi. Venivano alla punta tutti e due, e il padre lo  lasciava  lì  e  subito  si  metteva  dietro  ai  suoi  molluschi.  Così  ferme  e  testarde,  le patelle non potevano attirare Zeffirino; furono dapprima i granchi, a interessarlo, poi i polpi,  le  meduse,  e  poi  via  via  tutte  le  qualità  di  pesci.  D’estate  le  sue  cacce  erano sempre  più  difficili  e  ingegnose:  e  adesso  non  c’era  ragazzetto  della  sua  età  che  col fucile  subacqueo  andasse  così  bene  come  lui.  In  acqua  chi  va  meglio  sono  i  tipi  un po’  tracagnotti<ref target="#nota3">3</ref>,  tutti  fiato  e  muscolo;  e  Zeffirino  veniva  su  così.  Visto  a  terra,  per mano a suo padre, era uno di quei ragazzi rapati e a bocca aperta da far andare avanti a scappellotti; invece in acqua dava punti a tutti; sott’acqua meglio ancora.
+			</p>
+				Quel  giorno  Zeffirino  era  riuscito  a  mettere  insieme  tutto  l’armamento  per  la  caccia subacquea.  La  maschera  l’aveva  già  dall’anno  scorso,  regalo  di  sua  nonna;  una cugina che aveva i piedi piccoli gli prestò le pinne; il fucile lo prese a casa di suo zio senza  dir  niente  e  al  padre  disse  che  gliel’avevano  prestato.  D’altronde  era  un bambino attento, che sapeva usare e tener di conto tutto, e ci si poteva fidare a dargli roba in prestito.
+			</p>
+			<p>
+				Il  mare  era  una  bellezza,  così  limpido.  Zeffirino  disse: –  <said>Sì,  papà, </said>–  a  tutte  le  raccomandazioni  e  andò  in  acqua.  Con  quel  muso  di  vetro  e  l’antenna  per  respirare,  le gambe che finivano da pesce, e in mano quell’arnese un po’ lancia un po’ fucile e un po’ forchetta, non somigliava più a un essere umano. Invece, appena in mare, benché filasse via mezzo sommerso, subito si riconosceva che era lui: dal colpo che dava con le  pinne,  dal  modo  in  cui  il  fucile  gli  sporgeva  sottobraccio,  dall’impegno  che metteva ad andare avanti con la testa giù a fior d’acqua.
+			</p>
+			<list rend="numbered" type="gloss">
+				<label xml:id="nota1">1. agra:</label> <gloss>acida</gloss>.
+				<label xml:id="nota2">2. spersi:</label> <gloss>spaesati, disorientati</gloss>.
+				<label xml:id="nota3">3.tracagnotti:</label> <gloss>robusti</gloss>.
+			</list>
+		</body>
+	</text>
+</TEI>

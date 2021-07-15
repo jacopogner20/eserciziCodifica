@@ -1,0 +1,94 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<!DOCTYPE TEI SYSTEM "tei.all.dtd">
+<TEI>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<!--Sezione per la codifica del titolo dell'edizione digitale-->
+				<title>Vincenzo Bellini a Carlo Pepoli, in Puteaux, 26 giugno 1834: edizione elettronica</title>
+				<respStmt>
+					<resp>Conversione TEI P5 a cura di</resp>
+					<name ref="#JG">Jacopo Gneri</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<!--Sezione per la codifca dei dati di distribuzione e diffusione dell'edizione-->
+				<publisher>Università di Pisa</publisher>
+				<date>
+					<!--inserire data-->
+				</date>
+				<availability>
+					<!--inserire grado di disponibilità-->
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!--Descrizione della fonte primaria-->
+				<bibl>
+					<title>
+						<!--inserire titolo-->
+					</title>
+					<author>
+						Vincenzo Bellini
+					</author>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id="imtAnnotatedImg">
+		<surface n="1">
+			<graphic url='LL1.16_0001.jpg' width='1265px' height='1639px' />
+			<zone ulx="40" uly="32" lrx="1232" lry="210" xml:id="FV-area1"/>
+			<zone ulx="181" uly="211" lrx="945" lry="292" />
+			<zone ulx="298" uly="335" lrx="1227" lry="455" />
+			<zone ulx="139" uly="476" lrx="1198" lry="622" />
+			<zone ulx="140" uly="633" lrx="1152" lry="762" />
+			<zone ulx="123" uly="783" lrx="1180" lry="932" />
+			<zone ulx="119" uly="944" lrx="1225" lry="1117" />
+			<zone ulx="115" uly="1123" lrx="1202" lry="1245" />
+			<zone ulx="101" uly="1261" lrx="1231" lry="1372" />
+			<zone ulx="114" uly="1384" lrx="1227" lry="1481" />
+			<zone ulx="93" uly="1486" lrx="1180" lry="1541" />
+			<zone ulx="657" uly="1545" lrx="1211" lry="1594" />
+		</surface>
+		<surface n="2">
+			<graphic url="LL1.16_0002.jpg" width='1265px' height='1646px' />
+		</surface>
+		<surface n="3">
+			<graphic url="LL1.16_0003.jpg" width='1265px' height='1639px' />
+		</surface>
+			<graphic url='LL1.16_0004.jpg' width='1268px' height='1646px' />
+			<zone ulx="60" uly="30" lrx="413" lry="171" />
+			<!--timbro postale-->
+			<zone ulx="163" uly="499" lrx="804" lry="634" />
+			<zone points = ' 848,422 832,448 823,472 813,505 806,545 804,573 810,613 831,641 862,672 896,690 936,708 975,715 1028,710 1067,685 1098,667 1118,645 1133,613 1148,543 1148,491 1126,450 1070,395 1012,372 953,368 910,382 ' />
+			<zone ulx="156" uly="645" lrx="1235" lry="766" />
+			<zone ulx="181" uly="767" lrx="1231" lry="862" />
+			<zone ulx="671" uly="861" lrx="1096" lry="959" />
+			<zone ulx="1071" uly="967" lrx="1211" lry="1130" />
+			<zone ulx="950" uly="1007" lrx="1063" lry="1392" />
+			<zone ulx="860" uly="1004" lrx="941" lry="1597" />
+			<zone ulx="673" uly="1001" lrx="851" lry="1604" />
+			<zone ulx="480" uly="1015" lrx="658" lry="1553" />
+			<zone ulx="351" uly="1008" lrx="467" lry="1191" />
+			<!--secondo timbro postale-->
+			<zone points = ' 108,1204 153,1173 227,1152 300,1169 354,1219 386,1285 371,1368 305,1434 211,1445 153,1432 92,1392 70,1332 71,1281 ' />
+	</facsimile>
+	<text>
+		<body>
+			<div type="lettera">
+				<opener>
+					<dateline>
+						<date>Juin 26</date>: 
+						<placeName>Puteau– N:o 19 bis rampe de Neuilly</placeName>
+					</dateline>
+					<salute>Mio caro <persName>Carluccio</persName></salute>
+				</opener>
+				<p>avendo steso l’intero duetto e mancando in esso qualche cosetta, desidererei che  tu  t’incommodassi  a  venire  à  <placeName>Puteau</placeName>  per  tutto  fissare,  e  nell’istesso  tempo darmi la sortita di <persName>Rubini</persName>, se è terminata. T’aspetto in qual giorno ed in qual’ora vorrai.</p>
+				<closer>
+					<salute> - Addio</salute>
+					<signed>il tuo <persName>Vincenzillo</persName></signed>
+				</closer>
+			</div>
+		</body>
+	</text>
+</TEI>
